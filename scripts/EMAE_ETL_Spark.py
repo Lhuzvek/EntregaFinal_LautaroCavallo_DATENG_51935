@@ -1,3 +1,5 @@
+# Este script está pensado para correr en Spark y hacer el proceso de ETL de la tabla emae
+
 import requests
 from datetime import datetime, timedelta
 from os import environ as env
